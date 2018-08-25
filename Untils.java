@@ -4,7 +4,7 @@ add text
 there are 3 diff
 
 
-what are you say
+ 你说什么
 we are ok
 
 that girl
