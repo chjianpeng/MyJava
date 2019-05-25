@@ -1,0 +1,1 @@
+package com.myCompany.demo;public class TestJson {    public static void main(String[] args) {                }}
