@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package com.zhouzhou.aigorithms;
 
 
 /**

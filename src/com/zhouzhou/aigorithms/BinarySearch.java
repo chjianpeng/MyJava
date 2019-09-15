@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package com.zhouzhou.aigorithms;
 
 /**
  * 二分查找法
@@ -22,8 +22,9 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int[] a = {10, 11, 12, 16, 23, 29, 33, 48, 54, 57, 68, 77, 84, 98};
+        int[] a = {10, 11, 12, 16, 23, 29, 33, 48, 54, 57, 68, 77, 84, 98, 100};
         int rank = rank(48, a);
         System.out.println(rank);
+
     }
 }

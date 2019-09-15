@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package com.zhouzhou.aigorithms;
 
 import java.util.HashSet;
 import java.util.Random;
