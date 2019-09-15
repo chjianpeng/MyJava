@@ -1,7 +1,6 @@
 package com.myCompany.thread;
 
-public class BasicThread extends Thread{
-
+public class Mythread extends Thread{
     public void run(){
         
     }
